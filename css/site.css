@@ -132,5 +132,28 @@ blockquote {
 	background-color: rgba(0, 0, 0, 0.298039);
 }
 
+.essay-list a {
+	font-size: 18px;
+}
+.essay-list li {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.subtext {
+	margin-top: 5px;
+	margin-left: 20px;
+	font-style: italic;
+}
+.subtext h6 {
+	font-style: normal;
+	font-size: 14px;
+}
+.subtext a {
+	font-size: 14px;
+}
+
+
+
+
 
 
