@@ -1,5 +1,5 @@
 <div class="container footer">
-  Copyright &copy; 2014 Mormon Essays | <a href="mailto:mormonessays@gmail.com">Contact Me</a> 
+  Copyright &copy; 2014 Mormon Essays | <a href="mailto:mormonessays@gmail.com">Contact Us</a> 
   <br/><br/>Mormon Essays is not affiliated with the Church of Jesus Christ of Latter-day Saints
 </div>
 <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
@@ -15,6 +15,10 @@
 
 </script>
 <script>
+
+	// $(x).closest('div.subtext').find('a:contains("Read on LDS.org")').attr('href')
+
+
 	var trackOutbound = function (url) {
 		console.log('tracking:' + url);
 		ga('send', 'event', 'outbound', 'click', url, {
@@ -25,6 +29,21 @@
 	};
 
 	$(function () {
+
+		// create the language links
+		$('a.lang').each(function () {
+
+			// get the language code
+			var languageCode = $(this).data('lang');
+
+			// get the essay link
+			var baseHref = $(this).closest('div.subtext').find('a:contains("Read on LDS.org")').attr('href');
+
+			// set the href on this translation link
+			$(this).attr('href', baseHref + '?lang=' + languageCode);
+
+		});
+
 		$('a').each(function (link) {
 			if ($(this).attr('href').indexOf('lds.org') > 0) {
 				var url = $(this).attr('href');

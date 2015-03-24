@@ -141,7 +141,6 @@ blockquote {
 }
 .subtext {
 	margin-top: 5px;
-	margin-left: 20px;
 	font-style: italic;
 }
 .subtext h6 {
@@ -150,6 +149,10 @@ blockquote {
 }
 .subtext a {
 	font-size: 14px;
+}
+
+.border-bottom {
+	border-bottom: 1px solid #dfdfdf; padding-bottom: 10px;
 }
 
 
