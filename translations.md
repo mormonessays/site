@@ -4,7 +4,7 @@ title: Translations of the Essays
 permalink: /translations/
 ---
 
-The Church recently translated the essays into the following languages. Please click on the links below to read the essays in your native tongue.
+The Church recently translated the essays into the following languages. Click on the links below to read the essays in your native tongue.
 
 <hr/>
 
