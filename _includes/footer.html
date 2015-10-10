@@ -17,7 +17,7 @@
 <script>
 
 	var trackOutbound = function (url) {
-		console.log('tracking:' + url);
+		//console.log('tracking:' + url);
 		ga('send', 'event', 'outbound', 'click', url, {
 			'hitCallback': function () {
 				return true;
