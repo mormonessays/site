@@ -6,6 +6,9 @@ permalink: /how-to-find-on-lds-dot-org/
 
 Some visitors to Mormon Essays have expressed interest in only using [LDS.org](https://www.lds.org) to access the essays instead of clicking the links found here.  The following instructions can be used to find each essay using the LDS.org search or by clicking through the [Gospel Topics](https://www.lds.org/topics) section of LDS.org. The full link to the essay is also provided if you would like to copy/paste it and then navigate to the essay.
 
+The complete list of essays can also be found on the [Mormon Newsroom site](http://www.mormonnewsroom.org/article/new-church-essays-women-priesthood-mother-in-heaven) and the [Gosepl Topics Essays](https://www.lds.org/topics/essays?lang=eng) home page. Also note that the 
+Gospel Topics Essays home page does not link directly to the two essays on Plural Marriage, it links to an [essay that briefly discusses Plural Marriage](https://www.lds.org/topics/plural-marriage-in-the-church-of-jesus-christ-of-latter-day-saints?lang=eng) before linking to the two Polygamy specific essays.
+
 To navigate to the essay using the Gospel Topics home page, click on the Browse Alphabetically dropdown and select
 the desired letter.
 
