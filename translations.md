@@ -114,7 +114,7 @@ The Church recently translated the essays into the following languages. Click on
 
 #### Français
 
-[Le mariage plural à Kirtland et à Nauvoo](https://www.lds.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=fra)
+[Le marriage plural à Kirtland et à Nauvoo](https://www.lds.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=fra)
 
 [Récits de la Première Vision](https://www.lds.org/topics/first-vision-accounts?lang=fra)
 
@@ -126,7 +126,7 @@ The Church recently translated the essays into the following languages. Click on
 
 [Traduction et historicité du livre d’Abraham](https://www.lds.org/topics/translation-and-historicity-of-the-book-of-abraham?lang=fra)
 
-[Le mariage plural et les familles plurales dans les premiers temps de l’Utah](https://www.lds.org/topics/plural-marriage-and-families-in-early-utah?lang=fra)
+[Le marriage plural et les familles plurales dans les premiers temps de l’Utah](https://www.lds.org/topics/plural-marriage-and-families-in-early-utah?lang=fra)
 
 [Les mormons sont-ils chrétiens?](https://www.lds.org/topics/christians?lang=fra)
 
@@ -134,7 +134,7 @@ The Church recently translated the essays into the following languages. Click on
 
 [Paix et violence parmi les saints des derniers jours au XIXe siècle](https://www.lds.org/topics/peace-and-violence-among-19th-century-latter-day-saints?lang=fra)
 
-[Le Manifeste et la fin du mariage plural](https://www.lds.org/topics/the-manifesto-and-the-end-of-plural-marriage?lang=fra)
+[Le Manifeste et la fin du marriage plural](https://www.lds.org/topics/the-manifesto-and-the-end-of-plural-marriage?lang=fra)
 
 
 <hr/>
